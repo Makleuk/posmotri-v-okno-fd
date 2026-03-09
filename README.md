@@ -1,1 +1,1 @@
-https://github.com/Makleuk/posmotri-v-okno-fd#
+https://github.com/Makleuk/posmotri-v-okno-fd
