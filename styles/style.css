@@ -18,7 +18,6 @@ html {
   background-color: #1b1919;
   display: flex;
   flex-direction: column;
-  padding: 0 30px;
   box-sizing: border-box;
   justify-content: center;
   align-items: center;
@@ -28,11 +27,10 @@ html {
   display: flex;
   justify-content: center;
   align-items: flex-end;
-  margin: 133px auto;
   gap: 30px;
   width: 100%;
   max-width: 1140px;
-  flex: 1;
+  
 }
 
 .result {
@@ -107,7 +105,7 @@ html {
 .search-form__fieldset-title {
   font-size: 18px;
   font-weight: 400;
-
+  margin-bottom: 6px;
 }
 
 .title {
@@ -133,6 +131,7 @@ html {
 }
 
 .content__video-card-title {
+  font-family: 'Oswald', sans-serif;
   font-weight: 700;
   font-size: 30px;
   text-transform: uppercase;
@@ -144,6 +143,7 @@ html {
 }
 
 .content__video-card-description {
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 16.2px;
@@ -241,8 +241,8 @@ input {
 }
 
 .more-button {
-  width: 100%;
-  height: 100%;
+  width: 390px;
+  height: 34px;
 }
 
 .button:hover {
