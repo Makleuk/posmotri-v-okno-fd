@@ -1,2 +1,1 @@
-https://github.com/Makleuk/posmotri-v-okno-fd/blob/main/README.md
-
+https://github.com/Makleuk/posmotri-v-okno-fd
