@@ -239,11 +239,12 @@ input {
 }
 
 .more-button {
+  width: 390px !important;
+  height: 34px !important;
   line-height: 34px;
   padding: 0;
   box-sizing: border-box;
 }
-
 .button:hover {
   text-decoration: underline;
 }
